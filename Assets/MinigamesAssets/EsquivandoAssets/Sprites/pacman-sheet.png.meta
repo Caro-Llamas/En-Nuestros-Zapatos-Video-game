@@ -1,0 +1,4331 @@
+fileFormatVersion: 2
+guid: d5bea61e8001ed04da0be8cf5f0ca768
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2736472641157794673
+    second: pacman-sheet_0
+  - first:
+      213: -1493149428019232254
+    second: pacman-sheet_1
+  - first:
+      213: -2660882964386611117
+    second: pacman-sheet_2
+  - first:
+      213: -4331125784695604910
+    second: pacman-sheet_3
+  - first:
+      213: 7205698599196776995
+    second: pacman-sheet_4
+  - first:
+      213: -8820390702039062490
+    second: pacman-sheet_5
+  - first:
+      213: 2829630557406144165
+    second: pacman-sheet_6
+  - first:
+      213: -5776403956620694219
+    second: pacman-sheet_7
+  - first:
+      213: 517615175558599623
+    second: pacman-sheet_8
+  - first:
+      213: -4335041379697886124
+    second: pacman-sheet_9
+  - first:
+      213: -6952449680095683337
+    second: pacman-sheet_10
+  - first:
+      213: 723388153140992466
+    second: pacman-sheet_11
+  - first:
+      213: -8014762910883706971
+    second: pacman-sheet_12
+  - first:
+      213: 2863210609001665003
+    second: pacman-sheet_13
+  - first:
+      213: -7957969022565194131
+    second: pacman-sheet_14
+  - first:
+      213: -1373268774834469264
+    second: pacman-sheet_15
+  - first:
+      213: 1500673338978167197
+    second: pacman-sheet_16
+  - first:
+      213: -1357513247831463448
+    second: pacman-sheet_17
+  - first:
+      213: -2630162424702593844
+    second: pacman-sheet_18
+  - first:
+      213: 6928510388605591945
+    second: pacman-sheet_19
+  - first:
+      213: -4688560390636413932
+    second: pacman-sheet_20
+  - first:
+      213: 2276631110777195589
+    second: pacman-sheet_21
+  - first:
+      213: 1967181428916063242
+    second: pacman-sheet_22
+  - first:
+      213: 8597812817052737686
+    second: pacman-sheet_23
+  - first:
+      213: 1391229331650467007
+    second: pacman-sheet_24
+  - first:
+      213: 9000946274940424562
+    second: pacman-sheet_25
+  - first:
+      213: -8421371171918728525
+    second: pacman-sheet_26
+  - first:
+      213: 5601688706481637000
+    second: pacman-sheet_27
+  - first:
+      213: -8889234524801834525
+    second: pacman-sheet_28
+  - first:
+      213: -2295021607958434767
+    second: pacman-sheet_29
+  - first:
+      213: -3651179234254847968
+    second: pacman-sheet_30
+  - first:
+      213: 596753257533322160
+    second: pacman-sheet_31
+  - first:
+      213: 8882255655650070233
+    second: pacman-sheet_32
+  - first:
+      213: 3056775642008805040
+    second: pacman-sheet_33
+  - first:
+      213: -1835312235152763849
+    second: pacman-sheet_34
+  - first:
+      213: -1245559194121293355
+    second: pacman-sheet_35
+  - first:
+      213: -3021369572304229344
+    second: pacman-sheet_36
+  - first:
+      213: -9199860976193900482
+    second: pacman-sheet_37
+  - first:
+      213: 3038292920529148681
+    second: pacman-sheet_38
+  - first:
+      213: 6306441589951705762
+    second: pacman-sheet_39
+  - first:
+      213: -6395447696623444301
+    second: pacman-sheet_40
+  - first:
+      213: 7879447352337072685
+    second: pacman-sheet_41
+  - first:
+      213: 1661146227028116908
+    second: pacman-sheet_42
+  - first:
+      213: -3737152282203711956
+    second: pacman-sheet_43
+  - first:
+      213: -7997533822741563035
+    second: pacman-sheet_44
+  - first:
+      213: -2072628857411572561
+    second: pacman-sheet_45
+  - first:
+      213: -737301041102703569
+    second: pacman-sheet_46
+  - first:
+      213: 3585084338989407082
+    second: pacman-sheet_47
+  - first:
+      213: -5334815508362309608
+    second: pacman-sheet_48
+  - first:
+      213: 4795896098567565660
+    second: pacman-sheet_49
+  - first:
+      213: -2670531594214713959
+    second: pacman-sheet_50
+  - first:
+      213: -4918273366444236452
+    second: pacman-sheet_51
+  - first:
+      213: 171012788587650901
+    second: pacman-sheet_52
+  - first:
+      213: -5535790008400073789
+    second: pacman-sheet_53
+  - first:
+      213: 2670592651419078580
+    second: pacman-sheet_54
+  - first:
+      213: 1221967822986227987
+    second: pacman-sheet_55
+  - first:
+      213: -5271123955200977647
+    second: pacman-sheet_56
+  - first:
+      213: 3250527456930807510
+    second: pacman-sheet_57
+  - first:
+      213: 544976202619482433
+    second: pacman-sheet_58
+  - first:
+      213: 6443335996807310828
+    second: pacman-sheet_59
+  - first:
+      213: 7210060816119011733
+    second: pacman-sheet_60
+  - first:
+      213: 2927642037278094827
+    second: pacman-sheet_61
+  - first:
+      213: -4035477956152920374
+    second: pacman-sheet_62
+  - first:
+      213: -3805022128592162824
+    second: pacman-sheet_63
+  - first:
+      213: -6314729217300407851
+    second: pacman-sheet_64
+  - first:
+      213: -262577394437642137
+    second: pacman-sheet_65
+  - first:
+      213: 7905061714977269426
+    second: pacman-sheet_66
+  - first:
+      213: 3311052514870765194
+    second: pacman-sheet_67
+  - first:
+      213: 8706903385141214548
+    second: pacman-sheet_68
+  - first:
+      213: -3766035583395366878
+    second: pacman-sheet_69
+  - first:
+      213: -5233262950490659164
+    second: pacman-sheet_70
+  - first:
+      213: -3662915433135656679
+    second: pacman-sheet_71
+  - first:
+      213: -8181339600840384615
+    second: pacman-sheet_72
+  - first:
+      213: -8297913858707237709
+    second: pacman-sheet_73
+  - first:
+      213: -1630342196980467152
+    second: pacman-sheet_74
+  - first:
+      213: 5645209180271447163
+    second: pacman-sheet_75
+  - first:
+      213: -1020430117675722585
+    second: pacman-sheet_76
+  - first:
+      213: 5009484289462626031
+    second: pacman-sheet_77
+  - first:
+      213: -6352973988577154210
+    second: pacman-sheet_78
+  - first:
+      213: -8645294785189977950
+    second: pacman-sheet_79
+  - first:
+      213: 3789761871040643918
+    second: pacman-sheet_80
+  - first:
+      213: 1984666971322670688
+    second: pacman-sheet_81
+  - first:
+      213: -2280214118112063583
+    second: pacman-sheet_82
+  - first:
+      213: -6051764066341910657
+    second: pacman-sheet_83
+  - first:
+      213: 67165537834730289
+    second: pacman-sheet_84
+  - first:
+      213: 366245616327916220
+    second: pacman-sheet_85
+  - first:
+      213: -9146177464944191935
+    second: pacman-sheet_86
+  - first:
+      213: 735977548461191426
+    second: pacman-sheet_87
+  - first:
+      213: -8137169748869990063
+    second: pacman-sheet_88
+  - first:
+      213: 8665079039033482115
+    second: pacman-sheet_89
+  - first:
+      213: -4762466489306991223
+    second: pacman-sheet_90
+  - first:
+      213: -5728251663180581950
+    second: pacman-sheet_91
+  - first:
+      213: 2289675513829260143
+    second: pacman-sheet_92
+  - first:
+      213: 317833777147655949
+    second: pacman-sheet_93
+  - first:
+      213: 8098563812277653104
+    second: pacman-sheet_94
+  - first:
+      213: -8574590662355026618
+    second: pacman-sheet_95
+  - first:
+      213: -1783094813633690812
+    second: pacman-sheet_96
+  - first:
+      213: -9091506902064942112
+    second: pacman-sheet_97
+  - first:
+      213: 7180833150303563961
+    second: pacman-sheet_98
+  - first:
+      213: 4572088548381596552
+    second: pacman-sheet_99
+  - first:
+      213: -2604754861037755976
+    second: pacman-sheet_100
+  - first:
+      213: 759993055239601545
+    second: pacman-sheet_101
+  - first:
+      213: -5163797012091318847
+    second: pacman-sheet_102
+  - first:
+      213: -4802986796890380173
+    second: pacman-sheet_103
+  - first:
+      213: -2813219872648061857
+    second: pacman-sheet_104
+  - first:
+      213: -1520490191143593239
+    second: pacman-sheet_105
+  - first:
+      213: -579364854307727257
+    second: pacman-sheet_106
+  - first:
+      213: -77318572110521543
+    second: pacman-sheet_107
+  - first:
+      213: -1140814355907749544
+    second: pacman-sheet_108
+  - first:
+      213: 5385769739013938545
+    second: pacman-sheet_109
+  - first:
+      213: 6712170401494319969
+    second: pacman-sheet_110
+  - first:
+      213: -362977256983986263
+    second: pacman-sheet_111
+  - first:
+      213: -318318509224118743
+    second: pacman-sheet_112
+  - first:
+      213: -666509978624949198
+    second: pacman-sheet_113
+  - first:
+      213: -6068287076806221074
+    second: pacman-sheet_114
+  - first:
+      213: 1204084320033285823
+    second: pacman-sheet_115
+  - first:
+      213: -208414175967712413
+    second: pacman-sheet_116
+  - first:
+      213: -9157684498340513659
+    second: pacman-sheet_117
+  - first:
+      213: -5351193793653931804
+    second: pacman-sheet_118
+  - first:
+      213: 3028559416862349215
+    second: pacman-sheet_119
+  - first:
+      213: 6191015185294583385
+    second: pacman-sheet_120
+  - first:
+      213: -1352769352755111632
+    second: pacman-sheet_121
+  - first:
+      213: 1171803065193735524
+    second: pacman-sheet_122
+  - first:
+      213: -3329517857976751366
+    second: pacman-sheet_123
+  - first:
+      213: 1478725620522853149
+    second: pacman-sheet_124
+  - first:
+      213: -4631542496850428298
+    second: pacman-sheet_125
+  - first:
+      213: 2240824795921524706
+    second: pacman-sheet_126
+  - first:
+      213: 6425558656705680378
+    second: pacman-sheet_127
+  - first:
+      213: -3296322088266190507
+    second: pacman-sheet_128
+  - first:
+      213: 295973711963421172
+    second: pacman-sheet_129
+  - first:
+      213: 7649937131116945666
+    second: pacman-sheet_130
+  - first:
+      213: 6191454122591076920
+    second: pacman-sheet_131
+  - first:
+      213: 6332948887257280472
+    second: pacman-sheet_132
+  - first:
+      213: 799835588315174977
+    second: pacman-sheet_133
+  - first:
+      213: -2199199079558939384
+    second: pacman-sheet_134
+  - first:
+      213: -8968722883074020580
+    second: pacman-sheet_135
+  - first:
+      213: -6493911006407745993
+    second: pacman-sheet_136
+  - first:
+      213: -623186679729208848
+    second: pacman-sheet_137
+  - first:
+      213: -3231935928961876889
+    second: pacman-sheet_138
+  - first:
+      213: -2212078411689340067
+    second: pacman-sheet_139
+  - first:
+      213: -678040028550407603
+    second: pacman-sheet_140
+  - first:
+      213: 9167198249209205966
+    second: pacman-sheet_141
+  - first:
+      213: 5444364958527680009
+    second: pacman-sheet_142
+  - first:
+      213: 915033000977927442
+    second: pacman-sheet_143
+  - first:
+      213: -2478564771462422576
+    second: pacman-sheet_144
+  - first:
+      213: 4493241066666710572
+    second: pacman-sheet_145
+  - first:
+      213: 4290785804152877722
+    second: pacman-sheet_146
+  - first:
+      213: -3344083803550934299
+    second: pacman-sheet_147
+  - first:
+      213: 7867465436252011058
+    second: pacman-sheet_148
+  - first:
+      213: 3860385776499815076
+    second: pacman-sheet_149
+  - first:
+      213: -2500186545329858509
+    second: pacman-sheet_150
+  - first:
+      213: -5362608013954185222
+    second: pacman-sheet_151
+  - first:
+      213: -3606893255582561607
+    second: pacman-sheet_152
+  - first:
+      213: 5116729988590595319
+    second: pacman-sheet_153
+  - first:
+      213: 8103191711815606171
+    second: pacman-sheet_154
+  - first:
+      213: -1275573702341743114
+    second: pacman-sheet_155
+  - first:
+      213: -2348887461236894566
+    second: pacman-sheet_156
+  - first:
+      213: 8110669067019442066
+    second: pacman-sheet_157
+  - first:
+      213: -5555574210797823070
+    second: pacman-sheet_158
+  - first:
+      213: 598332621253626458
+    second: pacman-sheet_159
+  - first:
+      213: 4945331075120185664
+    second: pacman-sheet_160
+  - first:
+      213: 7325298158546392227
+    second: pacman-sheet_161
+  - first:
+      213: 7460820195389040236
+    second: pacman-sheet_162
+  - first:
+      213: 1660186912267664106
+    second: pacman-sheet_163
+  - first:
+      213: -8085280108566037545
+    second: pacman-sheet_164
+  - first:
+      213: 6192843755521539756
+    second: pacman-sheet_165
+  - first:
+      213: 8930277067450034945
+    second: pacman-sheet_166
+  - first:
+      213: 8086357349271941445
+    second: pacman-sheet_167
+  - first:
+      213: -8806721393491044567
+    second: pacman-sheet_168
+  - first:
+      213: 5293644787662488589
+    second: pacman-sheet_169
+  - first:
+      213: -4544437313506923907
+    second: pacman-sheet_170
+  - first:
+      213: 2180124664249157391
+    second: pacman-sheet_171
+  - first:
+      213: 4435141399732552254
+    second: pacman-sheet_172
+  - first:
+      213: 8366502852168429922
+    second: pacman-sheet_173
+  - first:
+      213: 5408931679941216592
+    second: pacman-sheet_174
+  - first:
+      213: -2451626933509901625
+    second: pacman-sheet_175
+  - first:
+      213: 1494139094284186766
+    second: pacman-sheet_176
+  - first:
+      213: 8817546461781091311
+    second: pacman-sheet_177
+  - first:
+      213: -369437485248698127
+    second: pacman-sheet_178
+  - first:
+      213: -216846534428197993
+    second: pacman-sheet_179
+  - first:
+      213: -4503574582351742741
+    second: pacman-sheet_180
+  - first:
+      213: -1384818274747921485
+    second: pacman-sheet_181
+  - first:
+      213: -1077367345022606243
+    second: pacman-sheet_182
+  - first:
+      213: -3603235787979563417
+    second: pacman-sheet_183
+  - first:
+      213: -7952881600388519903
+    second: pacman-sheet_184
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pacman-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 264
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769e37e5f4bd2bf47a60495d806655d8
+      internalID: -2736472641157794673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 264
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d10e48a035493408e672393cd1d2d1
+      internalID: -1493149428019232254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 264
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84534cd37a3368489739e99719895db
+      internalID: -2660882964386611117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 263
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cd1d3a025aaf144ad61d1cb11ff279
+      internalID: -4331125784695604910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 263
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee886fd2c9454d4394172b500e036f7
+      internalID: 7205698599196776995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 263
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef9ee66a7f957141b5a1fa7439378c4
+      internalID: -8820390702039062490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 267
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936ac5c9684ba084991acf1db6fe419d
+      internalID: 2829630557406144165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 267
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc10e7c1b3e8ba458a4fd8290ec0d47
+      internalID: -5776403956620694219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0397ff7d33e2bc549a867f5654e87392
+      internalID: 517615175558599623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 271
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcb5bf9c5789ec47bd19c7c2bfd0142
+      internalID: -4335041379697886124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9127c3eb5a0e841961027bfa27ac2f
+      internalID: -6952449680095683337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 271
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3edafb10dca218419fb33fe17e558bf
+      internalID: 723388153140992466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 271
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468745f3daebec4fb8060ff2f0e6640
+      internalID: -8014762910883706971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 271
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafef078799dce54487d458350bb0cc6
+      internalID: 2863210609001665003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 246
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69ec799527716e40b7fff6f5dbc3f0b
+      internalID: -7957969022565194131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 244
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07daed281598ce14fa3f584e6a326658
+      internalID: -1373268774834469264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 244
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81f478a56c8b7540bec90ccce840f2c
+      internalID: 1500673338978167197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 243
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c45eb0f54496843bade70466929274
+      internalID: -1357513247831463448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 243
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9076d2d39735e24e83a8ab8049e7b31
+      internalID: -2630162424702593844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 241
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67306c02f453e8e42881a575a84539c1
+      internalID: 6928510388605591945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 247
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915f94c5d20d7224b9ad7f5b3c9c3e35
+      internalID: -4688560390636413932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 247
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941f06fec24cf6440ab13a7e3ccdcaa2
+      internalID: 2276631110777195589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 247
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ef5f284f319204ca656b06d8e8db5c
+      internalID: 1967181428916063242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9397a7598089864e8264072cd9d5108
+      internalID: 8597812817052737686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 224
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd181718773168845a5d9a7a1351b78c
+      internalID: 1391229331650467007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 223
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccec7fd1a3b6f04384c4b409f0d21e9
+      internalID: 9000946274940424562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 223
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa43b4fac3f7534a9967c356cf72c62
+      internalID: -8421371171918728525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 223
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf8abb89a72d04680d1b6ef072b788
+      internalID: 5601688706481637000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 227
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e361f02a85f10c648b963414ff64d008
+      internalID: -8889234524801834525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 227
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5411d19858c41a4f90a578a0973abf2
+      internalID: -2295021607958434767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 227
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c32b7e76e0dc248b1deb5bd7be6ac5
+      internalID: -3651179234254847968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 206
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb72ad4e4e8302d4cb91f2416a363282
+      internalID: 596753257533322160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 205
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd1c092d87be5943a427ca8be6e70c1
+      internalID: 8882255655650070233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 209
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecfe3e8f5b8b644d8279d9a7d458de9
+      internalID: 3056775642008805040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 205
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0c26ca6aed7c742baf4e0515bc426c
+      internalID: -1835312235152763849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 207
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d00dbfa0e5e048b14dbd527ada023
+      internalID: -1245559194121293355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 203
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7469faad3f25b4aaef24c908e18297
+      internalID: -3021369572304229344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 207
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94eb9cb687343f48baa4101c9ec2805
+      internalID: -9199860976193900482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 207
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042d609037865ca47a447dc241efcde3
+      internalID: 3038292920529148681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 207
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea97e0549f3c260449a87413d1db7ee6
+      internalID: 6306441589951705762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 201
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff5eb2133da1b540b192937d3855822
+      internalID: -6395447696623444301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99dd6e4a0e48fc8439e7037fcaeba638
+      internalID: 7879447352337072685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 201
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ce252ab1754a34bb52d549245857a6
+      internalID: 1661146227028116908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2811f0fbd38fb747abaade0e13438c8
+      internalID: -3737152282203711956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee15366a1c5583249bb8f0eeb21bb142
+      internalID: -7997533822741563035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c13bb7602924040ad7c3f0303b07ec
+      internalID: -2072628857411572561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc1aa1a20524c64798db0a1fbfe8807
+      internalID: -737301041102703569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe935d067aea8418ea6e69fd6141e6
+      internalID: 3585084338989407082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfb56346a41c774cb6b8015bfbe9cec
+      internalID: -5334815508362309608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d33d9b1873e5746944bebbfd098331
+      internalID: 4795896098567565660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 183
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c208419a7caf9f046b1449b7562bca1f
+      internalID: -2670531594214713959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 187
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bda232949e81c489147bc5deca7575
+      internalID: -4918273366444236452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 187
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8939203f23a074baab84f07a611584
+      internalID: 171012788587650901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 187
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e475a95fbc66e43bc4fd44d45369b5
+      internalID: -5535790008400073789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c04f894d4d9e4ea88b30d02043ef5
+      internalID: 2670592651419078580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c704d6be1939e5d4eb2e173099b0a136
+      internalID: 1221967822986227987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 191
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331fb77f143b6849b18164779a96dae
+      internalID: -5271123955200977647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132fc53e19c23894fb8e8c2e18011665
+      internalID: 3250527456930807510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357869c6f19e0b941a5a42ca63617b6c
+      internalID: 544976202619482433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b66fb51c430cf043a20586c655af854
+      internalID: 6443335996807310828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72899fbf6ca29fd4d9685687e872b594
+      internalID: 7210060816119011733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f9f131afab35c4cb2e31503723c7e0
+      internalID: 2927642037278094827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00b7f2497f0ca54b9bd5dadb37c36d8
+      internalID: -4035477956152920374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f9fa6e29f57a43b09c1a6601e92a7
+      internalID: -3805022128592162824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33baccd47529fb24780fcb67bc143a45
+      internalID: -6314729217300407851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 163
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e736a629202ddbd4eb8788a10db851f4
+      internalID: -262577394437642137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 167
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3ec7445abe2c64cb729bd4110cc38e
+      internalID: 7905061714977269426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 167
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5028696f1fc75164b8cae04ab851057b
+      internalID: 3311052514870765194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 167
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5f2cf7363269543978c0444665c7c0
+      internalID: 8706903385141214548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 167
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531bd21b28ad5254291e80d47d1dc676
+      internalID: -3766035583395366878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6541c3d47d3b1e24e9fbcf575f9f7961
+      internalID: -5233262950490659164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb3c14b1ea314b458509f8409a8491b
+      internalID: -3662915433135656679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1c2259c9bdac54a96108f36019dd3c
+      internalID: -8181339600840384615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30029a070b521434791a579b4c6db5b1
+      internalID: -8297913858707237709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba4bb4069fe3b741ac174f87ff127f2
+      internalID: -1630342196980467152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d68eea96cf80149b76232a61a63f9b
+      internalID: 5645209180271447163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea05fc9e3729fe48b84dba4f0dd2cf8
+      internalID: -1020430117675722585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3f68fdcd2d8614cb9ccfefb33c9fb5
+      internalID: 5009484289462626031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 147
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535d2305ea952b47a2b485195222912
+      internalID: -6352973988577154210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 147
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae76db5209288fc458106da89888e9b7
+      internalID: -8645294785189977950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 147
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d39cc27cfe53d42bb1d98ce35cbf74
+      internalID: 3789761871040643918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 147
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a3d29c18a323a4786b3c33c5b8670b
+      internalID: 1984666971322670688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72015db6276cfaf4784077fe9e3cfcc0
+      internalID: -2280214118112063583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac83e8ba9ef3844391a42b600a32a63
+      internalID: -6051764066341910657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8647a42c72879c47b619bde4fc8abe3
+      internalID: 67165537834730289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e2b83af94ca74c81e648bdf05f4e3
+      internalID: 366245616327916220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4678f072eec1d46850fef426ea87d5
+      internalID: -9146177464944191935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194421e42265d154f80b6bc6d3ee627f
+      internalID: 735977548461191426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6780cd861769208489a163991521a760
+      internalID: -8137169748869990063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 123
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6cca29a735b6842aa0d28f913993df
+      internalID: 8665079039033482115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2869fb32e55988049b9e888ecb64793e
+      internalID: -4762466489306991223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 127
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2175368cefb419146a8992ed687ebc52
+      internalID: -5728251663180581950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 127
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd33b3ad0ab129409aed2f7a91aee24
+      internalID: 2289675513829260143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 127
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b6a53b172a7964895670a232e7a886
+      internalID: 317833777147655949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8433abc78ffd8f2498f590a4f3095efe
+      internalID: 8098563812277653104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0686e40e408c8dd48b398fecc8149817
+      internalID: -8574590662355026618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52e3846a23e5074eb9df8c1649bfa0e
+      internalID: -1783094813633690812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3691c99da4bfcd44f953e9cdfe700997
+      internalID: -9091506902064942112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fb7ef5c41aa244d88b76b5f10e52e4
+      internalID: 7180833150303563961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223b3f04967ff64d814130059b4b104
+      internalID: 4572088548381596552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 103
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3818429a0ba5064fbd5c4ed630e9d61
+      internalID: -2604754861037755976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 104
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bf4945ee5382744a5996785cf837b2
+      internalID: 759993055239601545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 103
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93d4befe196840409c267e0c2101a90
+      internalID: -5163797012091318847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c48e6d10f13c045a74f4936e50a2cb
+      internalID: -4802986796890380173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b02a756229c8343a312e79aa3219a0
+      internalID: -2813219872648061857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 91
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d0c760b79eeb74c84c14f2f25e0b45
+      internalID: -1520490191143593239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7423cf82bfc2549ae8e4a33bfefe0c
+      internalID: -579364854307727257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016be1d59d9d6634cabb000291491a4f
+      internalID: -77318572110521543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d772d3d39f7b04b9b6d38534bf1a45
+      internalID: -1140814355907749544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d285c4b1a2dda7348ae4c98d3d528700
+      internalID: 5385769739013938545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ca75c8c40ff5a42bd829450101323a
+      internalID: 6712170401494319969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba60197b4d2c6a4596812e7a616dd9b
+      internalID: -362977256983986263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec53d2bac0a7c7a4d82ccb95874d63a1
+      internalID: -318318509224118743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 91
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34219e0c0f8c13a4b851684258738269
+      internalID: -666509978624949198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 83
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df39067c969a804c81cf6031983900a
+      internalID: -6068287076806221074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 84
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca7063fcf23cf04996af93cc211c11a
+      internalID: 1204084320033285823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 84
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93762085ddac23b4aabb552cbf2eaf6b
+      internalID: -208414175967712413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb229415c430cb49b81a43d60d62d8f
+      internalID: -9157684498340513659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c8946389ba3224db13f60e1f24c13e
+      internalID: -5351193793653931804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d870bedf3ebd4c84886e0a4b6bc9146f
+      internalID: 3028559416862349215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd03e606ca1ed94cb07c0ff7bac0e83
+      internalID: 6191015185294583385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f0a59813119004cac70cd1863b33bf
+      internalID: -1352769352755111632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a75dfc2dc8615498093e5bc0a2a55a
+      internalID: 1171803065193735524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04443495a4ba414aa5381c9ee5f6305
+      internalID: -3329517857976751366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 81
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdcac8300e2cf54e854f0bafcfd6ea6
+      internalID: 1478725620522853149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 71
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8435e97961fe54fb3ec5b13eb5b341
+      internalID: -4631542496850428298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 71
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df84e4c9087ed4a8ffdb7f444abbd9
+      internalID: 2240824795921524706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262ebc5bb61b4b4bae12485335e9efe
+      internalID: 6425558656705680378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb2e6a9b2801a04c8a73bfc0354e81f
+      internalID: -3296322088266190507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e736c0efbcd352419c3addaffaca752
+      internalID: 295973711963421172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_130
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2927e1e52d92c3746ba3de3abd08478f
+      internalID: 7649937131116945666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_131
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa1e7b3c981e5b46afda4ad6ba62a5f
+      internalID: 6191454122591076920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_132
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 68
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168033b0a1bc95b44ad3123667a978dc
+      internalID: 6332948887257280472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_133
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 63
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7f1cef366c4944ba7751eedbe76ddd
+      internalID: 799835588315174977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_134
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 64
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a377ac9e8b1754f9c52afa7ef36d2a
+      internalID: -2199199079558939384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_135
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 64
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f6d18f5a57b044cb391ca50c9717f3
+      internalID: -8968722883074020580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_136
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789bae41a0a69c4db81ffd965b910c7
+      internalID: -6493911006407745993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_137
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37c65814b7ca44aa9b9e6679709706
+      internalID: -623186679729208848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_138
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c06f7d081116d546b3fc94d54208b81
+      internalID: -3231935928961876889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_139
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef69613a895d6844a1e8f49d024cda1
+      internalID: -2212078411689340067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_140
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda92a439717a8b44b31a590f0cb576a
+      internalID: -678040028550407603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_141
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446aab0320c6af64fb9c39cb73bb5c78
+      internalID: 9167198249209205966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_142
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c85fb34c2fac445b9178d6f9fb8366
+      internalID: 5444364958527680009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_143
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e73e10eaab83db448d1eb7362cb5620
+      internalID: 915033000977927442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_144
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd1025099f0ed244ac31c27c5bd05eb
+      internalID: -2478564771462422576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_145
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4115d18ba6a3146b6a963578073a16
+      internalID: 4493241066666710572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_146
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba84e8ab8fb9f648875531a9bae1af6
+      internalID: 4290785804152877722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_147
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 47
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714f1db235f052e46a87095323f972f4
+      internalID: -3344083803550934299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_148
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 43
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0982d5d871e90764cb4ebaefb244ed07
+      internalID: 7867465436252011058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_149
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 43
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baae77b0e004944b95f0ede56d855db
+      internalID: 3860385776499815076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_150
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 44
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca5df35444b34d4ebeb27fc9f7ce7be
+      internalID: -2500186545329858509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_151
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 22
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1270833adb7714eb06169b9caee6b5
+      internalID: -5362608013954185222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_152
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 26
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b01b0314e63c64da760419b0e7982a
+      internalID: -3606893255582561607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_153
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 26
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17249280107661b4b852a4438f68fe45
+      internalID: 5116729988590595319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_154
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 26
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15aac43c559254e8797c8fe32ed6c3
+      internalID: 8103191711815606171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_155
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 26
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ab3c60537351d4f88ec09357dc1a63
+      internalID: -1275573702341743114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_156
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 25
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d1692f90a54c41af900fad1882ac3
+      internalID: -2348887461236894566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_157
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172fe2218043f924a946cbad4bc2d4a6
+      internalID: 8110669067019442066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_158
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 23
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120add565d109744cb9193a0871009c3
+      internalID: -5555574210797823070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_159
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 23
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cd2bf12b9cf0a4c86d775242a22ff5
+      internalID: 598332621253626458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_160
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 23
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13843155afc60f54cad1c532d97f08a8
+      internalID: 4945331075120185664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_161
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 7
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2030532a333765a478127e1673302e36
+      internalID: 7325298158546392227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_162
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ce188f9aae68a41a8a9d2675e4864d
+      internalID: 7460820195389040236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_163
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a30aba802a372541b9e72a4752cbf0d
+      internalID: 1660186912267664106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pacman-sheet_164
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc6f018c3e4334885c698d20164304
+      internalID: -8085280108566037545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pacman-sheet_126: 2240824795921524706
+      pacman-sheet_50: -2670531594214713959
+      pacman-sheet_74: -1630342196980467152
+      pacman-sheet_45: -2072628857411572561
+      pacman-sheet_56: -5271123955200977647
+      pacman-sheet_12: -8014762910883706971
+      pacman-sheet_91: -5728251663180581950
+      pacman-sheet_39: 6306441589951705762
+      pacman-sheet_151: -5362608013954185222
+      pacman-sheet_38: 3038292920529148681
+      pacman-sheet_155: -1275573702341743114
+      pacman-sheet_163: 1660186912267664106
+      pacman-sheet_100: -2604754861037755976
+      pacman-sheet_10: -6952449680095683337
+      pacman-sheet_6: 2829630557406144165
+      pacman-sheet_41: 7879447352337072685
+      pacman-sheet_43: -3737152282203711956
+      pacman-sheet_79: -8645294785189977950
+      pacman-sheet_157: 8110669067019442066
+      pacman-sheet_47: 3585084338989407082
+      pacman-sheet_37: -9199860976193900482
+      pacman-sheet_18: -2630162424702593844
+      pacman-sheet_14: -7957969022565194131
+      pacman-sheet_25: 9000946274940424562
+      pacman-sheet_106: -579364854307727257
+      pacman-sheet_137: -623186679729208848
+      pacman-sheet_42: 1661146227028116908
+      pacman-sheet_130: 7649937131116945666
+      pacman-sheet_15: -1373268774834469264
+      pacman-sheet_44: -7997533822741563035
+      pacman-sheet_69: -3766035583395366878
+      pacman-sheet_29: -2295021607958434767
+      pacman-sheet_82: -2280214118112063583
+      pacman-sheet_158: -5555574210797823070
+      pacman-sheet_95: -8574590662355026618
+      pacman-sheet_28: -8889234524801834525
+      pacman-sheet_108: -1140814355907749544
+      pacman-sheet_103: -4802986796890380173
+      pacman-sheet_164: -8085280108566037545
+      pacman-sheet_32: 8882255655650070233
+      pacman-sheet_78: -6352973988577154210
+      pacman-sheet_128: -3296322088266190507
+      pacman-sheet_149: 3860385776499815076
+      pacman-sheet_116: -208414175967712413
+      pacman-sheet_31: 596753257533322160
+      pacman-sheet_73: -8297913858707237709
+      pacman-sheet_63: -3805022128592162824
+      pacman-sheet_76: -1020430117675722585
+      pacman-sheet_131: 6191454122591076920
+      pacman-sheet_145: 4493241066666710572
+      pacman-sheet_66: 7905061714977269426
+      pacman-sheet_86: -9146177464944191935
+      pacman-sheet_8: 517615175558599623
+      pacman-sheet_156: -2348887461236894566
+      pacman-sheet_0: -2736472641157794673
+      pacman-sheet_135: -8968722883074020580
+      pacman-sheet_23: 8597812817052737686
+      pacman-sheet_104: -2813219872648061857
+      pacman-sheet_144: -2478564771462422576
+      pacman-sheet_150: -2500186545329858509
+      pacman-sheet_51: -4918273366444236452
+      pacman-sheet_132: 6332948887257280472
+      pacman-sheet_40: -6395447696623444301
+      pacman-sheet_26: -8421371171918728525
+      pacman-sheet_84: 67165537834730289
+      pacman-sheet_152: -3606893255582561607
+      pacman-sheet_90: -4762466489306991223
+      pacman-sheet_24: 1391229331650467007
+      pacman-sheet_53: -5535790008400073789
+      pacman-sheet_81: 1984666971322670688
+      pacman-sheet_127: 6425558656705680378
+      pacman-sheet_161: 7325298158546392227
+      pacman-sheet_60: 7210060816119011733
+      pacman-sheet_30: -3651179234254847968
+      pacman-sheet_89: 8665079039033482115
+      pacman-sheet_121: -1352769352755111632
+      pacman-sheet_134: -2199199079558939384
+      pacman-sheet_70: -5233262950490659164
+      pacman-sheet_49: 4795896098567565660
+      pacman-sheet_80: 3789761871040643918
+      pacman-sheet_58: 544976202619482433
+      pacman-sheet_115: 1204084320033285823
+      pacman-sheet_141: 9167198249209205966
+      pacman-sheet_54: 2670592651419078580
+      pacman-sheet_118: -5351193793653931804
+      pacman-sheet_110: 6712170401494319969
+      pacman-sheet_148: 7867465436252011058
+      pacman-sheet_88: -8137169748869990063
+      pacman-sheet_55: 1221967822986227987
+      pacman-sheet_99: 4572088548381596552
+      pacman-sheet_98: 7180833150303563961
+      pacman-sheet_129: 295973711963421172
+      pacman-sheet_101: 759993055239601545
+      pacman-sheet_20: -4688560390636413932
+      pacman-sheet_92: 2289675513829260143
+      pacman-sheet_112: -318318509224118743
+      pacman-sheet_35: -1245559194121293355
+      pacman-sheet_65: -262577394437642137
+      pacman-sheet_97: -9091506902064942112
+      pacman-sheet_119: 3028559416862349215
+      pacman-sheet_2: -2660882964386611117
+      pacman-sheet_159: 598332621253626458
+      pacman-sheet_19: 6928510388605591945
+      pacman-sheet_160: 4945331075120185664
+      pacman-sheet_123: -3329517857976751366
+      pacman-sheet_4: 7205698599196776995
+      pacman-sheet_142: 5444364958527680009
+      pacman-sheet_139: -2212078411689340067
+      pacman-sheet_33: 3056775642008805040
+      pacman-sheet_5: -8820390702039062490
+      pacman-sheet_13: 2863210609001665003
+      pacman-sheet_125: -4631542496850428298
+      pacman-sheet_62: -4035477956152920374
+      pacman-sheet_96: -1783094813633690812
+      pacman-sheet_140: -678040028550407603
+      pacman-sheet_67: 3311052514870765194
+      pacman-sheet_143: 915033000977927442
+      pacman-sheet_34: -1835312235152763849
+      pacman-sheet_77: 5009484289462626031
+      pacman-sheet_113: -666509978624949198
+      pacman-sheet_85: 366245616327916220
+      pacman-sheet_153: 5116729988590595319
+      pacman-sheet_124: 1478725620522853149
+      pacman-sheet_83: -6051764066341910657
+      pacman-sheet_138: -3231935928961876889
+      pacman-sheet_1: -1493149428019232254
+      pacman-sheet_61: 2927642037278094827
+      pacman-sheet_93: 317833777147655949
+      pacman-sheet_146: 4290785804152877722
+      pacman-sheet_102: -5163797012091318847
+      pacman-sheet_48: -5334815508362309608
+      pacman-sheet_154: 8103191711815606171
+      pacman-sheet_136: -6493911006407745993
+      pacman-sheet_57: 3250527456930807510
+      pacman-sheet_117: -9157684498340513659
+      pacman-sheet_7: -5776403956620694219
+      pacman-sheet_36: -3021369572304229344
+      pacman-sheet_162: 7460820195389040236
+      pacman-sheet_59: 6443335996807310828
+      pacman-sheet_52: 171012788587650901
+      pacman-sheet_72: -8181339600840384615
+      pacman-sheet_147: -3344083803550934299
+      pacman-sheet_87: 735977548461191426
+      pacman-sheet_114: -6068287076806221074
+      pacman-sheet_71: -3662915433135656679
+      pacman-sheet_68: 8706903385141214548
+      pacman-sheet_133: 799835588315174977
+      pacman-sheet_109: 5385769739013938545
+      pacman-sheet_3: -4331125784695604910
+      pacman-sheet_27: 5601688706481637000
+      pacman-sheet_75: 5645209180271447163
+      pacman-sheet_120: 6191015185294583385
+      pacman-sheet_111: -362977256983986263
+      pacman-sheet_122: 1171803065193735524
+      pacman-sheet_17: -1357513247831463448
+      pacman-sheet_46: -737301041102703569
+      pacman-sheet_9: -4335041379697886124
+      pacman-sheet_16: 1500673338978167197
+      pacman-sheet_22: 1967181428916063242
+      pacman-sheet_64: -6314729217300407851
+      pacman-sheet_21: 2276631110777195589
+      pacman-sheet_107: -77318572110521543
+      pacman-sheet_11: 723388153140992466
+      pacman-sheet_94: 8098563812277653104
+      pacman-sheet_105: -1520490191143593239
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

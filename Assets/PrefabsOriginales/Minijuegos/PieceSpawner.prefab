@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &588272948959132425
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 588272948959132431}
+  - component: {fileID: 588272948959132424}
+  m_Layer: 0
+  m_Name: PieceSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: -1412012063857583412, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &588272948959132431
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 588272948959132425}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5, y: 20, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &588272948959132424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 588272948959132425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c207d13ab6018947bfa50e8d49b2891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelPieces:
+  - {fileID: 687299717928478836, guid: f92f4f6720b336b419e4d6f9db4de6cc, type: 3}
+  - {fileID: 2237219579476523540, guid: e2ae93e71086f5744b5080661f59d273, type: 3}
+  - {fileID: 8893489062255213558, guid: eefd39f598249874e87e2046fcf39242, type: 3}
+  - {fileID: 7780863938839299020, guid: 2ccf86f6eb5e3e54fabb936db63be1fd, type: 3}
+  - {fileID: 6503535397029290841, guid: 71ea1af260a80cf46ac6608b4b059227, type: 3}
+  - {fileID: 2972552542722784227, guid: 6f9af5ffc0b64fc4cbadb9d0088278ea, type: 3}
+  - {fileID: 4084649321097777338, guid: 6a7c54843134fd241822447877bdacb9, type: 3}
+  currentPiece: {fileID: 0}
+  nextPiece: {fileID: 0}
